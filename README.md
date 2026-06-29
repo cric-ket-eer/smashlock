@@ -1,20 +1,20 @@
-# Puts Legengds from SL into Deadlock.
+# Puts Legends from SL into Deadlock.
 
 ## Each folder includes:
-- Skin: Includes the model and recolored effects.
-- Additional Colors: Changes the color in the Hero Select screen to match. Will conflict with other mods that also do the same thing.
-- SFXs and VOs: Changes some voicelines and SFXs.
+- hero_model.vpk: Includes the model and recolored effects.
+- hero_heroselect_color.vpk: Changes the color in the Hero Select screen to match. Will conflict with other mods that also do the same thing.
+- hero_vo_sfx: Changes some voicelines and SFXs.
 - Extra: Blender Scene: The Blender file containing the model and the original armature from Deadlock.
 
 ## Installation:
 ### Method 1: Use a Mod Manager:
 I personally use Grimoire, but you can use Deadlock Mod Manager if you prefer that.
-Just import the VPKs into the mod manager.
+There should be a button named "Import Local Mod" in both mod managers.
 
 ### Method 2: Manual installation:
 - Right click on Deadlock in your Steam library.
 - Go to Manage > Browse Local Files...
-- Go to `game/citadel/addons` (make the folder if it doesn't exist), and paste the mod VPKs in there and rename them to `pak##_dir.vpk` (for example: pak01_dir.vpk).
+- Go to `game/citadel/addons/` (make the folder if it doesn't exist), and paste the mod VPKs in there and rename them to `pak##_dir.vpk` (for example: `pak01_dir.vpk)`.
 
 ## Known Issues:
 - Bad rigging: **I am not doing that again.**
