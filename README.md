@@ -26,3 +26,6 @@ There should be a button named "Import Local Mod" in both mod managers.
 ## Credits:
 - XZen for providing the assets from SL.
 - cric-ket-eer (me) for rigging, texture baking, and literally everything else.
+
+##### Not affliated with, or endorsed by, 5minlab. SMASH LEGENDS is a property of 5minlab Corp.
+##### Deadlock is a property of Valve Corporation. Access is currently limited to invited playtesters.
