@@ -1,5 +1,7 @@
 # Puts Legends from SL into Deadlock.
 
+# IMPORTANT NOTE: A new Deadlock update has broken the camera attachments, forcing everything to be in **first-person-like** mode. This note will be removed after camera attachments are updated.
+
 ## Each folder includes:
 - hero_model.vpk: Includes the model and recolored effects.
 - hero_heroselect_color.vpk: Changes the color in the Hero Select screen to match. Will conflict with other mods that also do the same thing.
